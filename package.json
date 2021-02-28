@@ -1,0 +1,11 @@
+{
+  "name": "codemunha-live-fb",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/codemunha/codemunha-live-fb.git",
+  "author": "Chalermporn Po <chalermporn.po@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "push": "git add . && git commit -m \"update\" && git push -u origin master"
+  }
+}
